@@ -54,6 +54,11 @@ body::before {
  
 </head>
 <body>
+
+<p class="note">
+  モバイル端末をお使いの場合は、画面を横向きにすると
+  より見やすくご覧頂けます。
+</p>
 <!--
 <p><a href="https://torokoid.github.io/fts_home">Home</a>><a href="https://torokoid.github.io/fts">同窓会</a>><a href="https://torokoid.github.io/fts_2">Teams同窓会</a>><a href="https://torokoid.github.io/fts_3">Teams同窓会_2</a>>リアル同窓会_2</p>
 -->
