@@ -69,7 +69,7 @@ body::before {
 <a href="20221206_019.JPG" data-lightbox="abc"><img src="20221206_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221206_020.JPG" data-lightbox="abc"><img src="20221206_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221206_021.JPG" data-lightbox="abc"><img src="20221206_021.JPG" alt="サンプル画像" width="900" /></a>
-<br>
+<br><br><br><br><br>
 <p>食後は大谷観音でプチ観光</p>
 <a href="20221206_003.JPG" data-lightbox="abc"><img src="20221206_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221206_004.JPG" data-lightbox="abc"><img src="20221206_004.JPG" alt="サンプル画像" width="900" /></a>
@@ -91,6 +91,8 @@ body::before {
 <a href="20221206_022.JPG" data-lightbox="abc"><img src="20221206_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221206_023.JPG" data-lightbox="abc"><img src="20221206_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221206_024.JPG" data-lightbox="abc"><img src="20221206_024.JPG" alt="サンプル画像" width="900" /></a>
+<iframe width="460" height="818" src="https://www.youtube.com/embed/5YmnDcPkZNc" title="2022/12/06 大谷石" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <br><br><br><br>
 
