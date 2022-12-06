@@ -48,6 +48,12 @@ body::before {
   background:url(https://torokoid.github.io/takuma-s_mama/20221206_019.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
+  
+  @media	screen and (min-width: 540px),
+	screen and (orientation: landscape) {
+   p.note { display: none; }
+}
+  
 </style>
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
