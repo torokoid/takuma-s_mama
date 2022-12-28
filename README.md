@@ -66,7 +66,7 @@ body::before {
   より見やすくご覧頂けます。
 </p>
 
-<p>takuma-s_mama><a href="https://torokoid.github.io/fts_3">Teams同窓会_2</a></p>
+<p>takuma-s_mama><a href="https://torokoid.github.io/wedding-present">wedding-present</a></p>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2022年12月6日(火)拓馬くんお母さん、来訪!!!</marquee></span></h1>
 
